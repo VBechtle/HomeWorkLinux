@@ -1,0 +1,11 @@
+   0 mkdir -p /home/user/start
+   1 echo "Start" > /home/user/start/1.txt
+   2 date
+   3 date >> /home/user/start/1.txt
+   4 mkdir /opt/task
+   5 cp /home/user/start/1.txt /opt/task/start.txt
+   6 cat /home/user/start/1.txt 
+   7 Spasibo za vnimanie 
+   8 export_file /tmp/history.txt
+   9 histort> /tmp/history.txt
+  10 history> /tmp/history.txt
