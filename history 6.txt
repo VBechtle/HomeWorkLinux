@@ -1,0 +1,5 @@
+   0 nano fullscript.sh
+   1 chmod 744 fullscript.sh
+   2 history >_history.txt
+   3 export_file history.txt
+   4 history > history.txt
